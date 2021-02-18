@@ -1,0 +1,14 @@
+article{
+    position: fixed;
+    top: 30%;
+    left: 30%;
+    padding: 10px;
+    font-size: larger;
+    background-color: pink;
+    border-radius: 5%;
+}
+input[type=text]{
+    width: 100%;
+    display: inline-block;
+}
+
